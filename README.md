@@ -1,2 +1,3 @@
 flowSphere
+This visual maps images from a webcam onto a sphere in realtime. As someone moves in front of the webcam waves ripple across the sphere. It was originally created for the 2nd part of Scene 7 (Flow) from Water in the Desert, where dancers' movements created the waves. I'm using an Auvi object (au.lunarize) to color the video, which doesn't work with Max 6. Just replace that with your own effect and it will work fine. Otherwise use Max 5 and download Auvi. http://aaron-sherwood.com
 ==========
